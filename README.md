@@ -5,3 +5,5 @@ The program goes through all the folders and, reading the bytes of the files, co
 ![picture](Digraph.gv.svg)
 
 In the diagram, commits are marked with yellow squares, trees with double circles, files with regular circles, and the contents of the files are in the "egg shape"(style="egg" is used).
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=l3odr0id.git-folder-parser) <!-- set 07.08.2022 -->
